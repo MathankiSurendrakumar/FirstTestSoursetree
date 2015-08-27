@@ -1,0 +1,31 @@
+https://www.youtube.com/watch?v=aj9x5b5PSGM
+https://www.developphp.com/video/CSS
+https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g
+
+bootstrap
+https://www.youtube.com/watch?v=mjjmM9gvSQo
+
+error
+http://stackoverflow.com/questions/9485059/how-do-you-return-login-form-errors-to-the-same-page-using-php
+
+
+<!--            <tr>
+      <?php foreach ($row as $row1){ ?>
+    <td><?php echo $row1['firstName'];  ?></td>
+    <td><?php echo $row1['lastName']; ?></td>
+    <td><?php echo $row1['contectNo'];  ?></td>
+     <?php } ?>
+  </tr>-->
+
+
+
+ <tr class="active">
+    
+    <td class="success"><?php echo $row1['firstName'];  ?></td>
+    <td class="info"><?php echo $row1['lastName']; ?></td>
+    <td class="warning"><?php echo $row1['contectNo'];  ?></td>
+    <?php } ?>
+
+
+gayan@findmyfare.com
+hakim@finmyfare.com

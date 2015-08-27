@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div class="deal_widget"> 
+
+    <h1 align="center" style="padding: 2%;">Vine Video Challenge !</h1>
+<div class="title_2" align="center">Be Rewarded with an Amazing Trip Anywhere in the World with your Best Friends! <br> Terms and Conditions!</div><br>
+
+    <div class="sub_title_2">
+        <ol>
+            <li>The posting of video should be done on “Findmyfare Insta – Booking” Event Page by or before 30th September 2015. Winners will be announced by 5th October 2015</li>
+            <li>To be eligible for the competition, complete a FREE booking on findmyfare.com & obtain your Trip ID.  </li>
+            <li>The winner and 03 friends that have been tagged will get 04 FREE Air Tickets to a destination of their choice. Winners’ travel period is only valid from 15th Oct 2015 - 31st December 2015. As seats are subject to availability the travel dates, booking class & Airline will be decided by findmyfare.com. Maximum value of the winning 04 Air Tickets will be capped at Rs. 500,000</li>
+            <li>Findmyfare reserves all rights to remove any unethical content that would violate the terms and conditions</li>
+            <li>Findmyfare reserves the right to withdraw, modify or change all or any of the rules, terms & conditions applicable to this competition at any given time without prior notice</li>
+        </ol>
+
+    </div><br >
+
+
+    <div class="title_2" align="center"><b>Group Selfie Challenge  </b></div><br>
+     
+    <div class="sub_title_2"><b>Be Rewarded with a Cinnamon Air Flight to Seegiriya & a Luxury Hotels Stay with your Best Friends</b></div>
+<div class="sub_title_2">Terms and Conditions</div>
+    <!-- courcel -->
+
+    <div class="sub_title_2">
+        <ol>
+            <li>The posting of group selfie should be done on “Findmyfare Insta – Booking” Event Page by or before 30th September 2015. Winners will be announced by 5th October 2015.</li>
+            <li>To be eligible for the competition, complete a FREE booking on findmyfare.com & obtain your Trip ID.  </li>
+            <li>The winner and 03 friends that have been tagged will get 04 FREE Air Tickets from Cinnamon Air to Seegiriya & a luxury hotel stay. Winners’ should claim the prize within the period of 15th Oct 2015 - 31st December 2015.  </li>
+            <li>Findmyfare reserves all rights to remove any unethical content that would violate the terms and conditions.</li>
+            <li>Findmyfare reserves the right to withdraw, modify or change all or any of the rules, terms & conditions applicable to this competition at any given time without prior notice. </li>
+            </ol>
+
+    </div><br >
+
+ <div class="sub_title_2"><b>Everyone is a winner!</b></div>
+
+    <!-- courcel -->
+
+     <div class="sub_title_2"><b>Every 10 likes on all uploaded videos/group selfies, we will donate Rs. 1 for the     course of Habitat for Humanity. </b></div> 
+        
+
+    </div><br >
+    
+     <iframe src="href=https://youtu.be/kFAnXVMxr0g width=200" height="200"></iframe>
+  
+    <div class="clearfix"></div>
+    <!-- !courcel -->            
+    
+    </body>
+</html>
