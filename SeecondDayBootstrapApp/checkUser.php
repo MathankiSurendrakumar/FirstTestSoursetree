@@ -6,7 +6,7 @@ include("dbConnection.php");
 $formUserName=$_POST['UserName'];
 $FoormPassword=$_POST['password'];
 
-
+//getting data
 $result = mysql_query("SELECT * FROM users Where username'$formUserName'");
 while ($row = mysql_fetch_array($result)) {
     $userName=$row['username'];
